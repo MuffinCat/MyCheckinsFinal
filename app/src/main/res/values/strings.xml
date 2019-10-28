@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyCheckins</string>
+    <string name="item_title_hint">Enter a title for the item.</string>
+    <string name="item_title_label">Title</string>
+    <string name="item_place_label">Place</string>
+    <string name="item_place_hint">Enter a name for this place.</string>
+    <string name="item_details_label">Details</string>
+    <string name="item_details_hint">Enter details about this place.</string>
+    <string name="item_solved_label">Solved</string>
+    <string name="item_date_label">Date</string>
+    <string name="item_location_label">Location</string>
+    <string name="date_picker_title">Date of item:</string>
+    <string name="new_item">New</string>
+    <string name="help">Help</string>
+    <string name="delete_button">Delete</string>
+    <string name="item_friend_label">Friend</string>
+    <string name="item_friend_text">Choose Friend</string>
+    <string name="item_share">Share</string>
+    <string name="item_report">At %1$s on %2$s, I visited %3$s</string>
+    <string name="item_report_friend">%s.</string>
+    <string name="item_report_subject">MyCheckins</string>
+    <string name="send_report">Send item report via</string>
+    <string name="google_maps_key">AIzaSyCkX0V7TnRP-PkbPM2pUR1XnJj5TPgISds</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="show_map">Show map</string>
+</resources>
